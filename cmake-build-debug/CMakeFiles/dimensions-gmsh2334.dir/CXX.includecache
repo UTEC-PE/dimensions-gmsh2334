@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/GMSH/Desktop/AED/dimensions-gmsh2334/main.cpp
+cstdlib
+-
+iostream
+-
+vector.h
+C:/Users/GMSH/Desktop/AED/dimensions-gmsh2334/vector.h
+
+C:/Users/GMSH/Desktop/AED/dimensions-gmsh2334/vector.h
+iostream
+-
+
